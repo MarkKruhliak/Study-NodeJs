@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Svetlana",
+    "age": 22
+  },
+  {
+    "name": "Olya",
+    "age": 12
+  },
+  {
+    "name": "Mark",
+    "age": 54
+  },
+  {
+    "name": "Anastasya",
+    "age": 32
+  },
+  {
+    "name": "Olena",
+    "age": 15
+  },
+  {
+    "name": "Mariana",
+    "age": 77
+  },
+  {
+    "name": "Anton",
+    "age": 44,
+    "id": null
+  },
+  {
+    "name": "Anton",
+    "age": 44,
+    "id": 1
+  },
+  {
+    "name": "Antonina",
+    "age": 44,
+    "id": 2
+  },
+  {
+    "name": "Alinata",
+    "age": 22,
+    "id": 3
+  }
+]
